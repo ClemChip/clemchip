@@ -1,7 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
-🧠​ Junior engineer in coding<br>🌌 I'm working on simple projects to learn JAVA 
+## 💫 About Me:
+🧠​ Junior engineer in coding<br>
+🌌 I'm working on simple projects to learn JAVA 
 
 ## 🛠️ Tech Stack
 
@@ -31,6 +32,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ClemChip&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
